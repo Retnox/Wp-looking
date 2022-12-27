@@ -29,7 +29,7 @@ Update script when i will update repository.
 Installation & Step's
 apt update && apt upgrade
 
-git clone https://github.com/retnox/Wp-Locking
+git clone https://github.com/Retnox/Wp-looking.git
 
 cd Wp-Locking
 
